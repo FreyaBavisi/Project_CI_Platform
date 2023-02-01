@@ -1,0 +1,44 @@
+body{
+    overflow-x: hidden;
+}
+.carousel-item img{
+    width: 100%;
+    height: 100vh;
+}
+#right{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    margin-top: 150px;
+    /* justify-content: center; */
+}
+/* form{
+    align-items: center;
+    text-align: center;
+} */
+h3{
+    text-align: center;
+}
+#input-style{
+    width: 400px;
+}
+.btn{
+   width: 400px;
+   border: 2px solid #F88634;
+    border-radius: 24px;
+    color: #F88634;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+}
+.login{
+    text-decoration: none;
+    color: #414141;
+}
+#privacy{
+    /* margin-top: 90px; */
+    /* margin-top: 30px; */
+    position: relative;
+    top: 20px;
+}
